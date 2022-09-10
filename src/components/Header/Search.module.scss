@@ -1,0 +1,30 @@
+.firstTextWrapper {
+
+    .textWrapper {
+        
+        
+        font-family:  'Noto Sans', sans-serif;
+        font-size: 80px;
+        line-height: 130%;
+        text-align: center;
+    }
+}
+
+.searchWrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: no-repeat;
+        /** background image */
+        height: 100vh;
+        //  
+    .searchButton{
+            width: 20px;
+            height: 20px;
+            display: flex;
+            justify-content: center;
+            
+
+    }
+
+}

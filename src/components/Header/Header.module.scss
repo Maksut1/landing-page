@@ -1,0 +1,37 @@
+.headerWrapper {
+    padding: 2.5rem 0 3.125rem 0;
+    
+    .header { 
+        display: flex;
+        justify-content: space-between;
+        .Logo {
+            .Link {
+                h3 {}
+                span{}
+            }
+        }
+        .navbarCollapse {
+            display: flex;
+            justify-content: space-between;
+            
+            .navbar{
+                    display: flex;
+                    background-color: red;
+                    list-style-type: none; 
+                
+                    .navItem{
+                        
+                        
+                        .navLink {
+                    
+                        }                      
+                    }
+            }
+        } 
+        .cartBasket{
+            span{
+
+            }
+        }
+    }
+}

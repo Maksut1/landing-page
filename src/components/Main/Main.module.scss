@@ -1,0 +1,22 @@
+.MainWrapper {
+        display: flex;
+        
+        list-style-type: none; 
+        
+    .chooseWrap{
+        display: flex;
+        align-items: center;
+        background-color: red; 
+        list-style-type: none; 
+    }
+    .FirstWrap{
+        display: flex;
+        justify-content: space-between;
+
+        align-items: center;
+        list-style-type: none; 
+                
+        .MainText{
+        }
+    }
+}
